@@ -1,0 +1,28 @@
+name: Clinton Patterson
+favicon: null
+layout_spectrum: 0.29562362213619053
+typography_spectrum: 0.9231828765477985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8724267657380551
+  lightness: 0.009375675115734339
+  saturation: 0.16123159835115075
+  rhythmicContrast: 0.8778938094619662
+purpose: []
